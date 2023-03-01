@@ -1,5 +1,5 @@
 <p align='center'>
-<img src ="[https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png](https://qph.cf2.quoracdn.net/main-qimg-c5ca4f69c5efd4e7d081800d181bc480-lq)">
+<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 <p>
 
  
