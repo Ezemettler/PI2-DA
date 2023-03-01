@@ -1,13 +1,10 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
+
 
  
 # <h1 align="center">**`Mercado bursátil`**</h1>
 
-¡Bienvenidos al último proyecto individual de la etapa de labs! En esta ocasión, deberán hacer un trabajo situándose en el rol de un ***Data Analyst***.
 <p align='center'>
-<img src = 'https://m.foolcdn.com/media/dubs/original_images/Intro_slide_-_digital_stock_chart_going_up_-_source_getty.jpg' height = 200>
+<img src ="https://qph.cf2.quoracdn.net/main-qimg-c5ca4f69c5efd4e7d081800d181bc480-lq">
 <p>
 
 
