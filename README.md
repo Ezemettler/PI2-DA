@@ -41,7 +41,7 @@ Considerando lo anterior, el principal objetivo es poder conocer la situación d
 
 ## Fuentes utilizadas:
 - [Lista índice SP500](https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_S%2526P_500_companies&sa=D&source=docs&ust=1676566032938438&usg=AOvVaw3J6gZYtEH8xJABTCf0pYqO)
-- [FED: Suba histórica de tasas](https://cnnespanol.cnn.com/2022/07/27/fed-tasas-interes-reserva-federal-aumento-trax/)
+- [FED: Tasas de interés](https://datos.bancomundial.org/indicator/FR.INR.RINR?end=2021&locations=US&start=2000&view=chart)
 - [Libreria Yahoo Finance](https://pypi.org/project/yfinance/)
 
 
